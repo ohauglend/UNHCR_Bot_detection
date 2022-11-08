@@ -2,8 +2,11 @@
 
 The purpose of this repository is to update the UNHCR with the progress made in the bot detection. 
 The repository consists of the following folders:
+
 •	Dataset
+
 •	Model code
+
 •	Implemented model
 
 The Data folder contains only data files and data documentation, which are results of various steps in the model training process.
